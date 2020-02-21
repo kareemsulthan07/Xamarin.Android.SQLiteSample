@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.Android.SQLiteSample.Model", "SQLiteSample.Model\Xamarin.Android.SQLiteSample.Model.csproj", "{FDA39D7D-D8FE-4F80-86E8-C6CA961C4EB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.Android.SQLiteSample.Migrations.Startup", "SQLiteSample.Migrations.Startup\Xamarin.Android.SQLiteSample.Migrations.Startup.csproj", "{58D3B240-B2F6-431F-8917-3C77F9A94593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Android.SQLiteSample.App", "SQLiteSample.App\Xamarin.Android.SQLiteSample.App.csproj", "{66AD33BE-1CBA-4ECC-9DFA-81D61AC1C5F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA39D7D-D8FE-4F80-86E8-C6CA961C4EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA39D7D-D8FE-4F80-86E8-C6CA961C4EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA39D7D-D8FE-4F80-86E8-C6CA961C4EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA39D7D-D8FE-4F80-86E8-C6CA961C4EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D3B240-B2F6-431F-8917-3C77F9A94593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D3B240-B2F6-431F-8917-3C77F9A94593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D3B240-B2F6-431F-8917-3C77F9A94593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D3B240-B2F6-431F-8917-3C77F9A94593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66AD33BE-1CBA-4ECC-9DFA-81D61AC1C5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66AD33BE-1CBA-4ECC-9DFA-81D61AC1C5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66AD33BE-1CBA-4ECC-9DFA-81D61AC1C5F4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{66AD33BE-1CBA-4ECC-9DFA-81D61AC1C5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66AD33BE-1CBA-4ECC-9DFA-81D61AC1C5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66AD33BE-1CBA-4ECC-9DFA-81D61AC1C5F4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADF532AD-05BA-446E-9AB0-FEA268DB59E7}
+	EndGlobalSection
+EndGlobal
